@@ -1,0 +1,15 @@
+C:\Users\Kuni\source\repos\Stager\bin\x64\Release\Stager.exe.config
+C:\Users\Kuni\source\repos\Stager\bin\x64\Release\Stager.exe
+C:\Users\Kuni\source\repos\Stager\bin\x64\Release\Stager.pdb
+C:\Users\Kuni\source\repos\Stager\obj\x64\Release\Stager.csprojAssemblyReference.cache
+C:\Users\Kuni\source\repos\Stager\obj\x64\Release\Stager.exe
+C:\Users\Kuni\source\repos\Stager\obj\x64\Release\Stager.pdb
+C:\Users\Kuni\source\repos\C2\Stager\bin\x64\Release\Stager.exe.config
+C:\Users\Kuni\source\repos\C2\Stager\bin\x64\Release\Stager.exe
+C:\Users\Kuni\source\repos\C2\Stager\bin\x64\Release\Stager.pdb
+C:\Users\Kuni\source\repos\C2\Stager\obj\x64\Release\Stager.csprojAssemblyReference.cache
+C:\Users\Kuni\source\repos\C2\Stager\obj\x64\Release\Stager.exe
+C:\Users\Kuni\source\repos\C2\Stager\obj\x64\Release\Stager.pdb
+C:\Users\Kuni\source\repos\C2\Projects\Project\Stager.exe.config
+C:\Users\Kuni\source\repos\C2\Projects\Project\Stager.exe
+C:\Users\Kuni\source\repos\C2\Projects\Project\Stager.pdb

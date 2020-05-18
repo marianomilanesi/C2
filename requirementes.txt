@@ -1,0 +1,4 @@
+colorama
+donut-shellcode
+pysxm
+requests
